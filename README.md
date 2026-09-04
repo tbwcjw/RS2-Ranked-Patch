@@ -1,9 +1,14 @@
 # RS2-ForceRankedPatch
 Working as of `9/4/26`
+Patch performed on the `8/27/26` update (md5: `e90d353bbfed9f1a9a58646c8981aae8`)
 
-Patch performed on `8/27/26` update (md5: `e90d353bbfed9f1a9a58646c8981aae8`)
+### Description
+Makes Rising Storm 2: Vietnam servers that use non-safelisted mutators ranked.
 
-Two instructions are patched:
+### Legal
+This patch is for educational and research use only. Use of this patch violates the [RS2 EULA](https://store.steampowered.com//eula/418460_eula_0) provisions that prohibit disassembling or modifying game files. I make available no automated tools or guides to disassemble or modify gaame files.
+
+### Patches
 ---
 ORIGINAL:
 ```
@@ -82,5 +87,6 @@ Reference Diffs :
     Program2 rs2 patch:/VNGame_PATCHED.exe at 140ad5caf :
         Reference Type: UNCONDITIONAL_JUMP  From: 140ad5caf  Operand: 0  To: 140ad5ef7  DEFAULT  Primary
 ```
-Proof of functionality:
+---
+### Proof of functionality
 ![webadmin](assets/webadmin.png)
