@@ -82,3 +82,5 @@ Reference Diffs :
     Program2 rs2 patch:/VNGame_PATCHED.exe at 140ad5caf :
         Reference Type: UNCONDITIONAL_JUMP  From: 140ad5caf  Operand: 0  To: 140ad5ef7  DEFAULT  Primary
 ```
+Proof of functionality:
+![webadmin](assets/webadmin.png)
