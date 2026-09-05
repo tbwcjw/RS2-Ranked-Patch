@@ -1,4 +1,4 @@
-# RS2-ForceRankedPatch
+# RS2-Ranked-Patch
 Working as of `9/4/26`
 
 Patch performed on the `8/27/26` update (md5: `e90d353bbfed9f1a9a58646c8981aae8`)
