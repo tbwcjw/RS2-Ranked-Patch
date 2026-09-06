@@ -1,7 +1,7 @@
 # RS2-Ranked-Patch
 Working as of `9/4/26`
 
-Patch performed on the `8/27/26` update (md5: `e90d353bbfed9f1a9a58646c8981aae8`)
+Patch performed on the [8/27/26](https://steamdb.info/changelist/38385728/) version of the [dedicated server](https://steamdb.info/app/418480/) (md5: `e90d353bbfed9f1a9a58646c8981aae8`)
 
 ### Description
 Makes Rising Storm 2: Vietnam servers that use non-safelisted mutators ranked.
