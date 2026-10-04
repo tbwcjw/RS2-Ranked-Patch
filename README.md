@@ -4,7 +4,7 @@ Working as of `9/4/26`
 Patch performed on the [8/27/26](https://steamdb.info/changelist/38385728/) version of the [dedicated server](https://steamdb.info/app/418480/) (md5: `e90d353bbfed9f1a9a58646c8981aae8`)
 
 ### Description
-Makes Rising Storm 2: Vietnam servers that use non-safelisted mutators ranked.
+Makes Rising Storm 2: Vietnam servers that use non-safelisted mutators ranked. Earned XP does not save.
 
 ### Legal
 This patch is for educational and research use only. Use of this patch violates the [RS2 EULA](https://store.steampowered.com//eula/418460_eula_0) provisions that prohibit disassembling or modifying game files. I make available no automated tools or guides to disassemble or modify game files.
